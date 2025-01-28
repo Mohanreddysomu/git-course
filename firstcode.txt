@@ -1,3 +1,4 @@
 hello world! !m
 take input from user
 add the values
+hello people of india
