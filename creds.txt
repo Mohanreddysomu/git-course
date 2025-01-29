@@ -1,2 +1,0 @@
-username=mr
-password=reddy
