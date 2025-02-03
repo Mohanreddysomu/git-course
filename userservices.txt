@@ -1,2 +1,5 @@
 get the user data...
 hi hello my name is mohan reddy somu.
+
+
+create an avatar for user
